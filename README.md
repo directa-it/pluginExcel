@@ -84,8 +84,7 @@ For each *project* there is a matching repository that will contain always the l
 **DIRECTA'S API**
 
 Directa APIs make use of listening sockets on the local machine and so make available three types of data flows:
-- * Data Feed *: a dataflow to apply for a security ; It allows you to receive the executed orders / bid-ask / book
-- 5 Book levels for the selected security
+- *Data Feed*: a dataflow to apply for a security ; It allows you to receive the executed orders / bid-ask / book5 Book levels for the selected security
 - *Trading*: data flow to carry out trading operations
 - *Historical Data Requests*: a dataflow to request various combinations, in terms of time frames, and the historical data periods (candles, tick by tick data)
 
