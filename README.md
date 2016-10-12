@@ -73,7 +73,7 @@ Descrizione servizio API: http://www.directa.it/pub2/it/darwin/api.html
 
  **THE PROJECTS' REPOSITORY ** 
  
- The repositories represent a reference point for developers interested in offering the services provided by Directa [ to their customers] through the platform] <a href="http://www.directa.it/pub2/it/darwin/intro.html">Darwin  Online Trading Platfrom</a>. The proposed *projects* are:
+ The repositories represent a reference point for developers interested in offering the services provided by Directa [ to their customers] through the platform] <a href="http://www.directa.it/pub2/en/darwin/intro.html">Darwin  Online Trading Platfrom</a>. The proposed *projects* are:
 
 - <a href="https://github.com/directa-it/darwinCommandLine">*Darwin CommandLine*</a>: is a Darwin version with no graphical interface, which allows the use of the APIs (historical data, real-time pricing and exchanges, and trading functions) all provided by Directa
 -  *<a href="https://github.com/directa-it/pluginExcel">Plugin Excel*</a>: This is the library that allows the use of Darwin's API in Microsoft Excel
