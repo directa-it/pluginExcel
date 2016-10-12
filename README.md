@@ -69,7 +69,7 @@ Descrizione servizio API: http://www.directa.it/pub2/it/darwin/api.html
 
 **DIRECTA SIM**
 
-<a href="http://www.directa.it/">Directa SIM</a> is a financial brokerage company founded in Turin, Italy, in 1995. With the aim of allowing private investors to buy and sell financial instruments electronically, directly from the ease of their computers, 
+<a href="http://www.directa.com/en/">Directa SIM</a> is a financial brokerage company founded in Turin, Italy, in 1995. With the aim of allowing private investors to buy and sell financial instruments electronically, directly from the ease of their computers, 
 
  **THE PROJECTS' REPOSITORY ** 
  
@@ -92,7 +92,7 @@ Directa APIs make use of listening sockets on the local machine and so make avai
 
 The API's functionality depends on the start-up of 
 
-<a href="http://www.directa.it/pub2/it/darwin/intro.html">Darwin Trading Platform </a> with an account that is enabled for that  service.
+<a href="http://www.directa.it/pub2/en/darwin/intro.html">Darwin Trading Platform </a> with an account that is enabled for that  service.
 
 **PREREQUISITES**
 
@@ -135,7 +135,7 @@ The Apache Software Foundation (http://www.apache.org/).
 
 **OFFICIAL WEBSITE**
 
-Directa sim's Official website: http://www.directa.it
+Directa sim's Official website: http://www.directa.com/en/
 
-API service description at : http://www.directa.it/pub2/it/darwin/api.html
+API service description at : http://www.directa.it/pub2/en/darwin/api.html
 
